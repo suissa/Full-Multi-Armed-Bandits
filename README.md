@@ -1,6 +1,10 @@
-Full Multi-Armed Bandits (MAB) Library
+![Full Multi-Armed Bandits (MAB)](https://i.imgur.com/Z0xQPXF.png) 
+
+# Full Multi-Armed Bandits (MAB) Library
+
 A comprehensive, zero-dependency TypeScript library providing standardized implementations of various Multi-Armed Bandit (MAB) algorithms, suitable for A/B testing, personalization, and reinforcement learning research.
 This library includes classical, refined, non-stationary, and contextual bandit algorithms, all adhering to a single, simple BanditAlgorithm interface.
+
 🚀 Features
  * Standardized Interface: Easily swap algorithms using the BanditAlgorithm<TContext> interface.
  * Zero Dependencies: Core logic and minimal linear algebra utilities are included for autonomy.
